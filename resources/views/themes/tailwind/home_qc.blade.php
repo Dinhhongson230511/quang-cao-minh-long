@@ -101,59 +101,6 @@
                 </div>
             </div>
         </div>
-
-        <!-- -->
-        <!--    <div class="service-item service-item-child">-->
-        <!--        -->
-        <!--            -->
-        <!--                <a href="https://afa.com.vn/thiet-ke-noi-that-2" rel="follow" class="sl-img" title="THIẾT KẾ NỘI THẤT"><img src="https://afa.com.vn/storage/app/uploads/public/5f7/709/06b/5f770906bf29d550691068.png" alt="THIẾT KẾ NỘI THẤT"></a>-->
-        <!--            -->
-        <!--        -->
-        <!--        <div class="box-text">-->
-        <!--            <div class="tle"><a href="https://afa.com.vn/thiet-ke-noi-that-2" rel="follow" title="THIẾT KẾ NỘI THẤT">THIẾT KẾ NỘI THẤT</a></div>-->
-        <!--            <div class="txt">-->
-        <!--                <a href="https://afa.com.vn/thiet-ke-noi-that-2" rel="follow" title="THIẾT KẾ NỘI THẤT">Chúng tôi quan điểm “Thiết kế nội thất là một công việc sáng tạo liên tục, đòi hỏi sự kết hợp của nhiều nhà chuyên môn như kiến trúc sư, hoạ sĩ, thậm chí là các nghệ nhận lành nghề”</a>-->
-        <!--            </div>-->
-        <!--            <div class="btn-view-more">-->
-        <!--                <a href="https://afa.com.vn/thiet-ke-noi-that-2" rel="follow" class="ss-view-more" title="THIẾT KẾ NỘI THẤT">Xem thêm <i class="fa fa-angle-right" aria-hidden="true"></i></a>-->
-        <!--            </div>-->
-        <!--        </div>-->
-        <!--    </div>-->
-        <!-- -->
-        <!--    <div class="service-item service-item-child">-->
-        <!--        -->
-        <!--            -->
-        <!--                <a href="https://afa.com.vn/thiet-ke-kien-truc" rel="follow" class="sl-img" title="THIẾT KẾ KIẾN TRÚC"><img src="https://afa.com.vn/storage/app/uploads/public/5f7/709/c1d/5f7709c1d3a7d377638821.png" alt="THIẾT KẾ KIẾN TRÚC"></a>-->
-        <!--            -->
-        <!--        -->
-        <!--        <div class="box-text">-->
-        <!--            <div class="tle"><a href="https://afa.com.vn/thiet-ke-kien-truc" rel="follow" title="THIẾT KẾ KIẾN TRÚC">THIẾT KẾ KIẾN TRÚC</a></div>-->
-        <!--            <div class="txt">-->
-        <!--                <a href="https://afa.com.vn/thiet-ke-kien-truc" rel="follow" title="THIẾT KẾ KIẾN TRÚC">Kiến trúc ngày nay không giống kiến trúc trước đây, khi nó từng là đại diện của xã hội. Ngày nay thông qua kiến trúc khách hàng thể hiện cá tính, dấu ấn cá nhân. Các công trình kiến trúc Quảng cáo Minh Long hướng...</a>-->
-        <!--            </div>-->
-        <!--            <div class="btn-view-more">-->
-        <!--                <a href="https://afa.com.vn/thiet-ke-kien-truc" rel="follow" class="ss-view-more" title="THIẾT KẾ KIẾN TRÚC">Xem thêm <i class="fa fa-angle-right" aria-hidden="true"></i></a>-->
-        <!--            </div>-->
-        <!--        </div>-->
-        <!--    </div>-->
-        <!---->
-        <!--    <div class="service-item service-item-child">-->
-        <!--        -->
-        <!--            -->
-        <!--                <a href="https://afa.com.vn/tong-thau-thi-cong-noi-that" rel="follow" class="sl-img" title="DESIGN &amp; BUILD"><img src="https://afa.com.vn/storage/app/uploads/public/5f7/7d3/1d7/5f77d31d7fd97404757687.png" alt="DESIGN &amp; BUILD"></a>-->
-        <!--            -->
-        <!--        -->
-        <!--        <div class="box-text">-->
-        <!--            <div class="tle"><a href="https://afa.com.vn/tong-thau-thi-cong-noi-that" rel="follow" title="DESIGN &amp; BUILD">DESIGN &amp; BUILD</a></div>-->
-        <!--            <div class="txt">-->
-        <!--                <a href="https://afa.com.vn/tong-thau-thi-cong-noi-that" rel="follow" title="DESIGN &amp; BUILD">Việc minh bạch hóa quá trình thi công nhờ vào 7 bước thực hiện dự án, Quảng cáo Minh Long giúp khách hàng tự tin kiểm soát được tiến độ, quản lý chi phí và chất lượng công trình hiệu quả.</a>-->
-        <!--            </div>-->
-        <!--            <div class="btn-view-more">-->
-        <!--                <a href="https://afa.com.vn/tong-thau-thi-cong-noi-that" rel="follow" class="ss-view-more" title="DESIGN &amp; BUILD">Xem thêm <i class="fa fa-angle-right" aria-hidden="true"></i></a>-->
-        <!--            </div>-->
-        <!--        </div>-->
-        <!--    </div>-->
-        <!---->
     </section>
     <section
         class="section slick-slider"
@@ -232,89 +179,6 @@
                 @endforeach
             </div>
         </div>
-        <!--<div class="customer-detail">-->
-        <!--    <div class="bg-image"><img src="https://afa.com.vn/themes/afa/assets/images/customer/bg1.png" alt=""></div>-->
-        <!--    <div class="customer-detail-title">Khách hàng nói gì về chúng tôi</div>-->
-        <!--    <div class="customer-detail-content">-->
-        <!--        -->
-        <!--            <div class="box-item">-->
-        <!--                <div class="item">-->
-        <!--                    <div class="item-title">-->
-        <!--                        <p>Công ty Công Nghệ AI&amp;T</p>-->
-        <!--                        <span>Chị Vũ Thị Nga - Đại diện AI&amp;T</span>-->
-        <!--                    </div>-->
-        <!--                    <div class="item-content">-->
-        <!--                        <div class="photo" style="margin-bottom: 15px">-->
-        <!--                            -->
-        <!--                                -->
-        <!--                                    <img src="https://afa.com.vn/storage/app/uploads/public/5f8/3c0/896/5f83c089608df577791938.png" alt="Công ty Công Nghệ AI&amp;T">-->
-        <!--                                -->
-        <!--                            -->
-        <!--                        </div>-->
-        <!--                        <div class="txt">-->
-        <!--                           <p>Công ty Cp AI&amp;T đánh giá rất cao thiết kế của Quảng cáo Minh Long và dành cho Quảng cáo Minh Long “điểm cộng cộng” .&nbsp;</p>
-
-<p>Thiết kế của các bạn rất sáng tạo và chúng tôi hoàn toàn bị thuyết phục ngay khi nghe các bạn thuyết trình ý tưởng “trời tròn, đất vuông” ban đầu.&nbsp;</p>
-
-<p>Thiết kế của Quảng cáo Minh Long không chỉ độc đáo, có điểm nhấn mà còn khá linh hoạt. Đầu bài đặt ra chưa chốt được số lượng nhân sự chuyển sang văn phòng mới và khi AI&amp;T có sự thay đổi về số lượng người, Quảng cáo Minh Long đã có điều chỉnh thiết kế nhanh chóng, phù hợp.</p>-->
-        <!--                        </div>-->
-        <!--                    </div>-->
-        <!--                </div>-->
-        <!--            </div>-->
-        <!--        -->
-        <!--            <div class="box-item">-->
-        <!--                <div class="item">-->
-        <!--                    <div class="item-title">-->
-        <!--                        <p>Tập đoàn GoldSun</p>-->
-        <!--                        <span>Phó tổng GĐ Nguyễn Khánh Ly</span>-->
-        <!--                    </div>-->
-        <!--                    <div class="item-content">-->
-        <!--                        <div class="photo" style="margin-bottom: 15px">-->
-        <!--                            -->
-        <!--                                -->
-        <!--                                    <img src="https://afa.com.vn/storage/app/uploads/public/5f8/3c6/92a/5f83c692a5fb0268647541.png" alt="Tập đoàn GoldSun">-->
-        <!--                                -->
-        <!--                            -->
-        <!--                        </div>-->
-        <!--                        <div class="txt">-->
-        <!--                           <p>Chúng tôi đã nhận được rất nhiều đơn chào thầu trong đó có cả công ty nước ngoài với giá rẻ hơn Quảng cáo Minh Long nhưng chúng tôi vẫn quyết định làm với Quảng cáo Minh Long vì chúng tôi thấy được sự tối ưu trong thiết kế và rút ngắn được thời gian để đi vào sử dụng của chúng tôi.</p>-->
-        <!--                        </div>-->
-        <!--                    </div>-->
-        <!--                </div>-->
-        <!--            </div>-->
-        <!--        -->
-        <!--            <div class="box-item">-->
-        <!--                <div class="item">-->
-        <!--                    <div class="item-title">-->
-        <!--                        <p>Aptech</p>-->
-        <!--                        <span></span>-->
-        <!--                    </div>-->
-        <!--                    <div class="item-content">-->
-        <!--                        <div class="photo" style="margin-bottom: 15px">-->
-        <!--                            -->
-        <!--                                -->
-        <!--                                    <img src="https://afa.com.vn/storage/app/uploads/public/5f8/3ca/6f4/5f83ca6f4d595819226962.png" alt="Aptech">-->
-        <!--                                -->
-        <!--                            -->
-        <!--                        </div>-->
-        <!--                        <div class="txt">-->
-        <!--                           <p>To be honest, when we started the project I wasn’t sure we could pull this off but you certainly did it and did it well.</p>
-
-<p>Highly appreciate your good job, keep it up!</p>-->
-        <!--                        </div>-->
-        <!--                    </div>-->
-        <!--                </div>-->
-        <!--            </div>-->
-        <!--        -->
-        <!--    </div>-->
-        <!--</div>-->
-        <!--<div class="customer-detail">-->
-        <!--    <div class="bg-image"><img src="https://afa.com.vn/themes/afa/assets/images/customer/bg1.png" alt=""></div>-->
-        <!--    <div class="customer-detail-title">Khách hàng nói gì về chúng tôi</div>-->
-        <!--    <div class="customer-detail-content">-->
-        <!--        -->
-        <!--    </div>-->
-        <!--</div>-->
     </section>
     <section class="section section-contact">
         <div class="bg-image">
@@ -369,10 +233,10 @@
                         <div class="foot-content">
                             <div class="text">
                                 Hướng đến việc tạo ra những công trình mang cá tính riêng,
-                                những sản phẩm độc bản Quảng cáo Minh Long luôn lắng nghe thấu hiểu
+                                những sản phẩm độc bản {{ setting('site.name_company') }} luôn lắng nghe thấu hiểu
                                 từng khách hàng. Chúng tôi luôn tôn trọng và đề cao những cá
                                 tính ấy, lấy đó làm chất liệu cùng với tư duy thiết kế “cân
-                                bằng” Quảng cáo Minh Long mong muốn kể những câu chuyện riêng nhuộm
+                                bằng” {{ setting('site.name_company') }} mong muốn kể những câu chuyện riêng nhuộm
                                 màu sắc cá biệt.
                             </div>
                             <ul class="social">
@@ -410,7 +274,7 @@
                         </div>
                     </div>
                     <div class="col-12 col-md-4">
-                        <div class="foot-title">Quảng cáo Minh Long</div>
+                        <div class="foot-title">{{ setting('site.name_company') }}</div>
                         <div class="foot-content">
                             <ul class="info">
                                 <li style="word-break: break-word">
@@ -435,7 +299,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="copy-right">© Copyright 2024 - Quảng Cáo Minh Long</div>
+                <div class="copy-right">© Copyright 2024 - {{ setting('site.name_company') }}</div>
             </div>
         </div>
         <script type="text/javascript">
