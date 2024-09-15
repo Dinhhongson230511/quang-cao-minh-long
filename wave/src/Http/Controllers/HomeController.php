@@ -28,10 +28,9 @@ class HomeController extends Controller
     	}
 
         $seo = [
-
             'title'         => setting('site.title', 'Laravel Wave'),
             'description'   => setting('site.description', 'Software as a Service Starter Kit'),
-            'image'         => url('/og_image.png'),
+            'image'         => url('storage/'.setting('site.icon')),
             'type'          => 'website'
 
         ];
