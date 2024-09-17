@@ -18,7 +18,7 @@
                                 @foreach($menu->children as $chil)
                                     <li>
                                         <a
-                                            href="#"
+                                            href="{{ route('wave.blog.category', $menu->slug) }}"
                                             target="_self">
                                             {{ $chil->name }}
                                         </a>
