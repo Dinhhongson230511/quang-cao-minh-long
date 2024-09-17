@@ -72,14 +72,10 @@
         <div class="container-master">
             <div class="row-master">
                 <div class="col-12 col-md-4">
-                    <div class="foot-title">THIẾT KẾ BIỂN QUẢNG CÁO</div>
+                    <div class="foot-title">{{ setting('site.field') }}</div>
                     <div class="foot-content">
                         <div class="text">
-                            Hướng đến việc tạo ra những công trình mang cá tính riêng, những
-                            sản phẩm độc bản Quảng Cáo Minh Long luôn lắng nghe thấu hiểu từng khách
-                            hàng. Chúng tôi luôn tôn trọng và đề cao những cá tính ấy, lấy
-                            đó làm chất liệu cùng với tư duy thiết kế “cân bằng” Quảng Cáo Minh Long
-                            mong muốn kể những câu chuyện riêng nhuộm màu sắc cá biệt.
+                            {{ setting('site.footer_description') }}
                         </div>
                         <ul class="social">
                             <li>
@@ -116,7 +112,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-md-4">
-                    <div class="foot-title">Quảng Cáo Minh Long</div>
+                    <div class="foot-title">{{ setting('site.name_company') }}</div>
                     <div class="foot-content">
                         <ul class="info">
                             <li style="word-break: break-word">
@@ -141,7 +137,7 @@
                     </div>
                 </div>
             </div>
-            <div class="copy-right">© Copyright 2020 - Quảng cáo Minh Long</div>
+            <div class="copy-right">© Copyright 2020 - {{ setting('site.name_company') }}</div>
         </div>
     </div>
     <script type="text/javascript">
