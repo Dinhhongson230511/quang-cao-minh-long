@@ -29,6 +29,10 @@ Route::get('p/{page}', '\Wave\Http\Controllers\PageController@page');
 /***** Pricing Page *****/
 Route::view('pricing', 'theme::pricing')->name('wave.pricing');
 
+/***** Sitemap *****/
+Route::get('sitemap.xml', '\Wave\Http\Controllers\SiteMapController@index')->name('wave.blog.index.sitemap');
+Route::get('category.xml', '\Wave\Http\Controllers\SiteMapController@category')->name('wave.blog.category.sitemap');
+
 /***** Billing Routes *****/
 Route::post('paddle/webhook', '\Wave\Http\Controllers\WebhookController');
 Route::post('checkout', '\Wave\Http\Controllers\SubscriptionController@checkout')->name('checkout');

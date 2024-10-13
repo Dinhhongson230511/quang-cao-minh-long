@@ -37,9 +37,7 @@ class HomeController extends Controller
         $slides =  Slide::get();
         $services =  Service::get();
         $customers =  Customer::get();
-        $projects = Post::with(['category' => function($q) {
-            $q->where('slug', 'du-an')->first();
-        }])->take(9)->get();
+        $projects = Post::with(['category'])->where('category_id', 3)->take(9)->get();
         $posts = Post::where('category_id', 4)->take(2)->get();
         return view('theme::home_qc', compact('seo', 'slides', 'services', 'projects', 'customers', 'posts'));
     }

@@ -79,6 +79,7 @@
                         <div class="item info-item">
                             <div class="item-img">
                                 <a
+                                    style="display:block;"
                                     href="{{ $service->link }}"
                                     rel="follow"
                                     class="imgc"
@@ -91,7 +92,7 @@
                             <div class="item-body">
                                 <h3>
                                     <a
-                                        href="https://afa.com.vn/thiet-ke-noi-that-2"
+                                        href="{{ $service->link }}"
                                         rel="follow"
                                         title="{{ $service->name }}">{{ $service->name }}</a>
                                 </h3>
